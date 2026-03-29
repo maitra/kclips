@@ -1,0 +1,14 @@
+#ifndef _RCONSTANTS_H
+#define _RCONSTANTS_H
+
+#define Inf 		DBL_MAX
+#define M_SQRT_32	5.656854249492380195206754896838	/* sqrt(32) */
+#define M_1_SQRT_2PI	0.398942280401432677939946059934	/* 1/sqrt(2pi) */
+
+#define M_LN2		0.693147180559945309417232121458	/* ln(2) */
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
+#define M_2PI		6.283185307179586476925286766559	/* 2*pi */
+#define M_LN_SQRT_2PI	0.918938533204672741780329736406	/* log(sqrt(2*pi)) */
+
+#endif /*_RCONSTANTS_H*/
+
